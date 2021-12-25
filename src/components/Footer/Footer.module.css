@@ -1,0 +1,20 @@
+footer {
+  height: 50px;
+  background-color: #310a0a30;
+  box-shadow: rgb(204, 204, 204) 0px 2px 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer span {
+  vertical-align: middle;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+}
+
+.btn {
+  background-color: crimson;
+}
